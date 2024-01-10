@@ -6,7 +6,7 @@ This repository is the first data project that will be offered by the [Racial Ju
 This project focuses on making RIPA data for the City of San Diego usable to RJCSD Coalition members to query, analyze, and output  visualizations and reports to help inform others about their findings. 
 
 Data is found here:
-1. [Actions taken](https://data.sandiego.gov/datasets/police-ripa-actions-taken/)
+1. [Actions taken](https://data.sandiego.gov/datasets/police-ripa-actions-taken/){:target="_blank"}
 2. [Contraband and/or evidence found](https://data.sandiego.gov/datasets/police-ripa-contraband-evid/)
 3. [Disability of persons](https://data.sandiego.gov/datasets/police-ripa-disability/)
 4. [Gender of persons](https://data.sandiego.gov/datasets/police-ripa-gender/)
