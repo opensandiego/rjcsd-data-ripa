@@ -22,3 +22,5 @@ These datasets are published what appears to be on a quarterly basis [here](http
 The California Code of Regulations (CCR) details what RIPA should contain in [CCR Title 11. Law, Division 1. Enforcement, Chapter 19.](https://oag.ca.gov/sites/all/files/agweb/pdfs/ripa/stop-data-reg-final-text-110717.pdf?)
 
 A [RIPA Board](https://oag.ca.gov/ab953/board) oversees related activities throughout the state. "The Racial and Identity Profiling Advisory (RIPA) Board was created “for the purpose of eliminating racial and identity profiling, and improving diversity and racial and identity sensitivity in law enforcement.”
+
+We are a team of volunteers with [Open San Diego](https://opensandiego.org) committed to improving the flow of information and feedback between the public and our governement. Join us! We need coders, UX/UI researchers and designers, graphics artists, a business development team, and above all, partnerships with organizations working in our communities. We meet regularly in person and typically hybrid utilizing Zoom. Our [Meetup](https://www.meetup.com/open-san-diego/) page has details on when and where we meet. 
